@@ -1,0 +1,34 @@
+{
+  "name": "AtaK",
+  "version": "2.0.0",
+  "description": "Abdullah#7100",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.6.0",
+    "event-target": "^1.2.3",
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "chalk": "^3.0.0",
+    "quick.db": "^6.3.2",
+    "jimp": "^0.9.3",
+    "best-tools": "^1.0.7"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://discord.gg/KERamBW"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
